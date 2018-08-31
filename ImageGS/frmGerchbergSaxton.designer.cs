@@ -1,4 +1,4 @@
-﻿namespace ImageGS
+namespace ImageGS
 {
     partial class frmGerchbergSaxton
     {
